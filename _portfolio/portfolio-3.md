@@ -1,5 +1,5 @@
 ---
 title: "hi"
-collection: "portfolio"
+collection: portfolio
 ---
 New section
