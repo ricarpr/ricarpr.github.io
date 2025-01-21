@@ -22,13 +22,13 @@ repository               : "ricarpr.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Ricardo Prieto"
+  pronouns         : "he/him"  
+  bio              : "Senior at University of Houston"
+  location         : "Texas, United States of America"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rjprieto@cougarnet.uh.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
