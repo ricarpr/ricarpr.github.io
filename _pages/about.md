@@ -13,7 +13,7 @@ I'm earning my Bachelor in Computer Science at [University of Houston](https://w
 
 # Education
 
-C++ is my primary language studied with some knowledge on Javascript, HTML, and CSS. Skillfull in problem solving and willing to learn more. In addition, improving my recursion methods and dynamic programming to improve the time complexity of my code. 
+C++ is my primary language studied with some knowledge on Javascript, HTML, and CSS. Still currently enrolled at University of Houston expanding my knowledge and improving my problem-solving skills. Improving things like my recursion methods and dynamic programming to improve the time complexity of my code. 
 
 To learn more about what I have or can learn visit the Computer Science page for University of Houston at [cs.uh.edu](https://www.uh.edu/nsm/computer-science/).
 
