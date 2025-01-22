@@ -18,4 +18,4 @@ C++ is my primary language studied with some knowledge on Javascript, HTML, and 
 To learn more about what I have or can learn visit the Computer Science page for University of Houston at [cs.uh.edu](https://www.uh.edu/nsm/computer-science/).
 
 # Resume
-PDF link to my [resume](/files/ric-resume.pdf){: .btn--research}.
+"PDF link to my"{: .btn--research} [resume](/files/ric-resume.pdf){: .btn--research}.
