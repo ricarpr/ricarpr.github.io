@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Lone Star-North Harris"
 collection:
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
