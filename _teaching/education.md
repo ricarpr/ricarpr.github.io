@@ -10,9 +10,4 @@ date: 2025-01-26
 
 At the University of Houston, I learned the basics and some of the intricacies of programming languages such as C++, HTML, CSS, and Javascript. Some notable classes that helped expand my knowledge are; Operating Systems, Data Structure, and Fundamentals of Software Engineering.
 
-<ul>
-  <li>Operating Systems</li>
-  <li>Data Structures</li>
-  <li>Fundamentals of Software Engineering</li>
-</ul>
 
