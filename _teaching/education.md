@@ -2,6 +2,9 @@
 collection: teaching
 title: "University of Houston"
 redirect_to: "https://www.uh.edu/nsm/computer-science/"
+venue: 
+type:
+date: 2026-01-26
 ---
 
 
