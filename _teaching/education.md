@@ -5,10 +5,7 @@ redirect_to: "https://www.uh.edu/nsm/computer-science/"
 ---
 
 
-I learned all the basics and some intricacies of the programming languages I know at the University of Houston.  
+At the University of Houston, I learned all the basics and some intricacies of programming languages such as C++, HTML, CSS, and Javascript.
 
 Some notable classes that helped out are:
 
--Operating Systems
--Data Structure
--Fundamentals of Software Engineering
