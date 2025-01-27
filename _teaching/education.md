@@ -2,8 +2,8 @@
 collection: teaching
 title: "University of Houston"
 redirect_to: "https://www.uh.edu/nsm/computer-science/"
-venue: 
-type:
+venue: "UH"
+type: "Undergraduate Courses"
 date: 2025-01-26
 ---
 
