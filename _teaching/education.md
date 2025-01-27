@@ -1,7 +1,7 @@
 ---
 collection: teaching
 title: "University of Houston"
-permalink: "https://www.uh.edu/nsm/computer-science/"
+redirect_to: "https://www.uh.edu/nsm/computer-science/"
 ---
 
 
