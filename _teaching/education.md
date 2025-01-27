@@ -1,5 +1,6 @@
 ---
 collection: teaching
+title: "University of Houston"
 ---
 
 
