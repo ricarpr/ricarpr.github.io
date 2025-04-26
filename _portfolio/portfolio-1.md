@@ -1,6 +1,7 @@
 ---
 title: "Project 1"
 excerpt: "Short description of Project 1"
+video: "https://www.youtube.com/embed/OQolYVlQNCo"
 collection: portfolio
 ---
 
