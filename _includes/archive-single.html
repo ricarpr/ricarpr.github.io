@@ -16,11 +16,7 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" %}
   <div class="archive__item-teaser">
-    {% if post.video %}
-      <div class="video-container">
-        <iframe width="560" height="315" src="{{ post.video }}" frameborder="0" allowfullscreen></iframe>
-      </div>
-    {% elsif teaser %}
+    {% if teaser %}
       <img src=
         {% if teaser contains "://" %}
           "{{ teaser }}"
@@ -31,6 +27,14 @@
     {% endif %}
   </div>
 {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2>
+    
     {% if post.video %}
   <div class="video-container">
     <iframe width="560" height="315" src="{{ post.video }}" frameborder="0" allowfullscreen></iframe>
