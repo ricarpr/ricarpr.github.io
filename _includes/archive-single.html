@@ -31,6 +31,12 @@
     {% endif %}
   </div>
 {% endif %}
+    {% if post.video %}
+  <div class="video-container">
+    <iframe width="560" height="315" src="{{ post.video }}" frameborder="0" allowfullscreen></iframe>
+  </div>
+{% endif %}
+
 
 
     <h2 class="archive__item-title" itemprop="headline">
